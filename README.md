@@ -87,6 +87,12 @@ else:
 ```
 The `elif` operator supplies another exact condition be met and offers the opportunity to provide a specific condition for that other instance.
 
+### Raise
+
+To create a message for a given kind of error (`ValueError`, `TypeError`, etc.), use `raise`.
+
+
+
 
 
 
